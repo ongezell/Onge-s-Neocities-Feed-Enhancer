@@ -11,7 +11,7 @@
 // @require http://code.jquery.com/jquery-3.6.0.min.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.jss
 // @grant GM_addStyle
-// @version     1.0
+// @version     1.2
 // ==/UserScript==
 
 
