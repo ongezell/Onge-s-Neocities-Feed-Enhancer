@@ -33,5 +33,5 @@ Here are some examples of how to use the custom tags:
 - `(center)This text is centered.(center_)`
 
 
-Note: Make sure to include the closing tags (e.g. `(color_)`, `(b_)`, `(h1_)`, `(center_)`) to indicate the end of the styled text.
+Note: Make sure to include the closing tags if needed. (e.g. `(h1_)`, `(center_)`).
 
