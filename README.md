@@ -26,7 +26,7 @@ Enhance your Neocities feed with custom HTML tags. Add images, spoilers, line br
 
 Here are some examples of how to use the custom tags:
 
-- `(style=font-family: Arial; color: red; font-weight: bold)`Text or Content to be stylized`(style_)`
+- `(style=font-family: Arial; color: red; font-weight: bold) Text or Content to be stylized (style_)`
 - `(br)`: Inserts a line break.
 - `(p)This text is in a paragraph.(p_)`
 - `(h1)This text is a heading.(h1_)`
