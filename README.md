@@ -14,7 +14,7 @@ Enhance your Neocities feed with custom HTML tags. Add images, spoilers, line br
 - Replaces image links with actual images for easier viewing, no need for tags for image links.
 - Adds a "Spoiler" button to hide and reveal spoiler text.
 - Replaces custom tags with HTML elements for adding line breaks, headings, and more.
-- Allows you to color and bold your text with custom tags.
+- Allows you to style your text with the `(style=...)` custom tag.
 
 ## Custom tags
 - `(style=css_style)` : Let's you stylized any element in your post using inline css.
