@@ -1,0 +1,3 @@
+To download the script visit this link:
+
+https://ongezell.com/userscripts/onges-neocities-feed-enhancer.user.js
