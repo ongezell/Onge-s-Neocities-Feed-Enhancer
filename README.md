@@ -17,9 +17,7 @@ Enhance your Neocities feed with custom HTML tags. Add images, spoilers, line br
 - Allows you to color and bold your text with custom tags.
 
 ## Custom tags
-
-- `(color=color_name)`: Colors the text with the specified color.
-- `(b)`: Makes the text bold.
+- `(style=css_style)` : Let's you stylized any element in your post using inline css.
 - `(br)`: Inserts a line break.
 - `(p)`: Inserts a paragraph.
 - `(h1)`: Inserts a heading.
@@ -28,8 +26,7 @@ Enhance your Neocities feed with custom HTML tags. Add images, spoilers, line br
 
 Here are some examples of how to use the custom tags:
 
-- `(color=red)This text is red(color_)`
-- `(b)This text is bold(b_)`
+- `(style=font-family: Arial; color: red; font-weight: bold)Styled text(style_)`
 - `(br)`: Inserts a line break.
 - `(p)This text is in a paragraph.(p_)`
 - `(h1)This text is a heading.(h1_)`
