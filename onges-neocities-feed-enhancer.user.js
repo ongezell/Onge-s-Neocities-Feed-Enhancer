@@ -6,12 +6,12 @@
 // @include https://neocities.org/site/*
 // @include https://neocities.org/?activity=mine
 // @include https://neocities.org/activity
-// @updateURL       https://github.com/ongezell/Onge-s-Neocities-Feed-Enhancer/raw/main/onges-neocities-feed-enhancer.user.js
-// @downloadURL     https://github.com/ongezell/Onge-s-Neocities-Feed-Enhancer/raw/main/onges-neocities-feed-enhancer.user.js
+// @updateURL       https://ongezell.com/userscripts/onges-neocities-feed-enhancer.user.js
+// @downloadURL     https://ongezell.com/userscripts/onges-neocities-feed-enhancer.user.js
 // @require http://code.jquery.com/jquery-3.6.0.min.js
-// @require https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.jss
+// @require https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js
 // @grant GM_addStyle
-// @version     1.2
+// @version     1.1
 // ==/UserScript==
 
 
@@ -41,6 +41,7 @@ $(document).ready(function() {
     .spoiler-button:hover {
       background-color: grey;
     }
+
   `;
 
   document.head.appendChild(style);
@@ -92,3 +93,4 @@ document.body.innerHTML = document.body.innerHTML.replace(/\(style_\)/g, '</span
     on: 'click',
   });
 });
+
