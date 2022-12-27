@@ -6,10 +6,10 @@
 // @include https://neocities.org/site/*
 // @include https://neocities.org/?activity=mine
 // @include https://neocities.org/activity
-// @updateURL       https://ongezell.com/userscripts/onges-neocities-feed-enhancer.user.js
-// @downloadURL     https://ongezell.com/userscripts/onges-neocities-feed-enhancer.user.js
+// @updateURL       https://github.com/ongezell/Onge-s-Neocities-Feed-Enhancer/raw/main/onges-neocities-feed-enhancer.user.js
+// @downloadURL     https://github.com/ongezell/Onge-s-Neocities-Feed-Enhancer/raw/main/onges-neocities-feed-enhancer.user.js
 // @require http://code.jquery.com/jquery-3.6.0.min.js
-// @require https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js
+// @require https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.jss
 // @grant GM_addStyle
 // @version     1.0
 // ==/UserScript==
